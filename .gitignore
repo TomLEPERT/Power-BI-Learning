@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI cache/temp (si présents)
+*.cache
+*.tmp
+
+# Visual Studio / VSCode
+.vscode/
+*.suo
